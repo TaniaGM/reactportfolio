@@ -26,10 +26,10 @@ const FavoritesList = () => {
 
   return (
     <div className="container mb-5 mt-5">
-      <h1 className="text-center">Here's All of Your Favorite Posts</h1>
+      <h1 className="text-center">Github Portfolio</h1>
       {state.favorites.length ? (
         <List>
-          <h3 className="mb-5 mt-5">Click on a post to view in detail</h3>
+          <h3 className="mb-5 mt-5">Click on a picture to view information about project</h3>
           {state.favorites.map(post => (
             <ListItem key={post._id}>
               <Link to={"/posts/" + post._id}>
@@ -42,7 +42,7 @@ const FavoritesList = () => {
           ))}
         </List>
       ) : (
-        <h3>You haven't added any favorites yet!</h3>
+        <h3>You haven't added any projects yet!</h3>
       )}
       <div className="mt-5">
         <Link to="home">Back to home</Link>
