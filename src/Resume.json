@@ -26,7 +26,7 @@
     "projects": [
         {
             "heading": "Drift",
-            "description": "Employee turnover is an issue for many employers. It has a financial impact on the company and often an impact on employee as well. This app aims to help both parties in a pivotal aspect of success, communication.",
+            "description": "This app aims to help both businesses and their employees communication seamlessly.",
             "technologies": [
                 "Javascript",
                 "jQuery",
@@ -42,7 +42,7 @@
         },
         {
             "heading": "Travel App",
-            "description": "In this busy business environment, people often have difficulty planning ahead for a vacation. Often they are making a last minute plan for a random city. This app helps them with last minute plans!",
+            "description": "This app helps people plan last minute vacations",
             "technologies": [
                 "OpenCaage API",
                 "OpenWeatherMap API",
@@ -64,11 +64,11 @@
                 "HTML"
             ],
             "link": "https://taniagm.github.io/Homework7/index.html",
-            "screenshot": "https://raw.githubusercontent.com/TaniaGM/reactportfolio/master/assets/images/app.JPG"
+            "screenshot": "https://user-images.githubusercontent.com/56511238/82134805-62c85580-97c1-11ea-9160-7aa6d9c9d60a.png"
         },
         {
             "heading": "Weather Dashboard",
-            "description": "A weather dashboard that allows travelers to see the weather outlook for multiple cities So that they can plan their trips accordingly The weather dashboard will allow travelers to input and track multiple cities that show present and future weather conditions Their searches will be saved in the search history where They can click on past searches to get present and future weather conditions",
+            "description": "A weather dashboard that allows travelers to see the weather outlook for multiple cities",
             "technologies": [
                 "OpenWeather API",
                 "CSS",
@@ -78,8 +78,35 @@
             ],
             "link": "https://taniagm.github.io/weather-dashboard/",
             "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Weather%20Dashboard.png"
+        },
+        {
+            "heading": "Work Day Scheduler",
+            "description": "Creating a one day work scheduler. The audience is a busy employee who can add important events to a daily planner so s/he can manage time effectively. ",
+            "technologies": [
+                "OpenWeather API",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "HTML"
+            ],
+            "link": "https://taniagm.github.io/WorkdayScheduler/",
+            "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Work%20Day%20Scheduler.png"
+        },
+        {
+            "heading": "Password Generator",
+            "description": "Allows user to select the length of the password between 8 & 128 with options to choose capitals, lower case, numbers and symbols ",
+            "technologies": [
+                "OpenWeather API",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "HTML"
+            ],
+            "link": "https://taniagm.github.io/Homework3/",
+            "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Password%20Generator.png"
         }
     ],
+    
     "skills": [
         {
             "value": "jQuery",
