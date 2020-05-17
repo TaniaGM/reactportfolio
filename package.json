@@ -10,7 +10,7 @@
     "react-bootstrap": "^0.32.1",
     "react-dom": "^16.3.2",
     "react-router-dom": "^4.2.2",
-    "react-scripts": "^2.1.1",
+    "react-scripts": "^3.4.1",
     "react-tagcloud": "^1.2.0"
   },
   "scripts": {
@@ -18,11 +18,12 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
-    "deploy": "npm run build && gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "homepage": "https://github.com/TaniaGM/reactportfolio",
   "devDependencies": {
-    "gh-pages": "^2.0.1"
+    "gh-pages": "^2.2.0"
   },
   "browserslist": [
     ">0.2%",

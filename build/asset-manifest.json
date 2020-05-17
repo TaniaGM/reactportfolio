@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/TaniaGM/reactportfolio/static/css/main.a9c64b88.chunk.css",
+    "main.js": "/TaniaGM/reactportfolio/static/js/main.373104c0.chunk.js",
+    "main.js.map": "/TaniaGM/reactportfolio/static/js/main.373104c0.chunk.js.map",
+    "runtime-main.js": "/TaniaGM/reactportfolio/static/js/runtime-main.5c3a0eab.js",
+    "runtime-main.js.map": "/TaniaGM/reactportfolio/static/js/runtime-main.5c3a0eab.js.map",
+    "static/js/2.452d101b.chunk.js": "/TaniaGM/reactportfolio/static/js/2.452d101b.chunk.js",
+    "static/js/2.452d101b.chunk.js.map": "/TaniaGM/reactportfolio/static/js/2.452d101b.chunk.js.map",
+    "index.html": "/TaniaGM/reactportfolio/index.html",
+    "precache-manifest.39964ff1bc666fd79548cc6a4fac6b61.js": "/TaniaGM/reactportfolio/precache-manifest.39964ff1bc666fd79548cc6a4fac6b61.js",
+    "service-worker.js": "/TaniaGM/reactportfolio/service-worker.js",
+    "static/css/main.a9c64b88.chunk.css.map": "/TaniaGM/reactportfolio/static/css/main.a9c64b88.chunk.css.map",
+    "static/js/2.452d101b.chunk.js.LICENSE.txt": "/TaniaGM/reactportfolio/static/js/2.452d101b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c3a0eab.js",
+    "static/js/2.452d101b.chunk.js",
+    "static/css/main.a9c64b88.chunk.css",
+    "static/js/main.373104c0.chunk.js"
+  ]
+}
