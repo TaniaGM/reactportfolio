@@ -28,7 +28,7 @@
 }
 
 body {
-  background: #18BC9C;
-  background: linear-gradient(to left, rgba(255,0,0,0), #18BC9C);
+  background: rgb(6, 35, 130);
+  background: linear-gradient(to left, rgba(255,0,0,0), rgb(24, 30, 188));
   font-family: 'Crimson Text', serif;
 }

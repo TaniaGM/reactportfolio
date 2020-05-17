@@ -1,5 +1,5 @@
 .top-navbar{
-    background: #2C3E50;
+    background: rgb(15, 40, 65);
 }
 
 a.navbar-link {
@@ -10,5 +10,5 @@ a.navbar-link {
 
 a.navbar-link:hover{
     text-decoration: none;
-    color: #18BC9C;
+    color: rgb(35, 97, 85);
 }
