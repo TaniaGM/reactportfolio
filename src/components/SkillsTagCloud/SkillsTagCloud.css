@@ -1,0 +1,21 @@
+  
+@keyframes blinker {
+    50% {
+        opacity: 0.0;
+    }
+}
+
+#tag-container {
+    background: rgba(44, 62, 80,0.2);
+}
+
+i.fa.fa-cogs:hover {
+    color: #18BC9C;
+}
+i.fa.fa-cogs{
+    margin-left: 2px;
+}
+
+#skills-container-border {
+    height: 417px;
+}

@@ -1,0 +1,66 @@
+  
+.project-heading {
+    text-align: center;
+}
+
+.project-card-header {
+    height: 45%;
+    width: 100%;
+}
+
+.project-card-body {
+    height: 40%;
+    width: 100%;
+}
+
+.project-card-footer {
+    height: 15%;
+    width: 100%;
+}
+
+.card-text {
+    font-size: 14px;
+}
+
+.project-card {
+    width: 300px;
+    height: 430px;
+    /* border-radius: 4%; */
+}
+
+/* .anchor-link {
+    color: white;
+} */
+
+.project-heading {
+    font-family: 'Nunito', sans-serif;
+    color: #e83e8c;
+}
+
+.project-card-description {
+    font-family: 'Crimson Text', serif;
+    font-size: 18px;
+}
+
+.card-back {
+    visibility: hidden;
+    display: none;
+    /* opacity: 1;
+    animation: fade 2s linear ; */
+    transform: perspective(1px) translateZ(0);
+    transition-duration: 0.5s;
+}
+
+.card-front {
+    visibility: visible;
+    display: block;
+    /* opacity: 1;
+    animation: fade 1s linear ; */
+    transform: perspective(1px) translateZ(0);
+    transition-duration: 0.5s;
+}
+
+@keyframes fade {
+    0%,100% { opacity: 0 }
+    50% { opacity: 1 }
+}

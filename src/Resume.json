@@ -1,0 +1,137 @@
+{
+    "summary": [
+        
+        "Highly motivated to bring an Indigenous perspective to web development",
+        "Excellent communication and inter personal skills"
+    ],
+    "personalInfo": {
+        "about": "",
+        "name": "Tania Moore",
+        "location": "Oakland, Illinois",
+        "github": "https://github.com/TaniaGM",
+        "linkedIn": "https://www.linkedin.com/in/tania-moore/"
+    },
+    "education": [
+        {
+            "degree": "Diploma in Indigenous Community Development and Governance",
+            "university": "University of Victoria",
+            "year": "2019"
+        },
+        {
+            "degree": "Web Develoment Coding BootCamp",
+            "university": "University of New Hampshire, Portsmouth",
+            "year": "2020"
+        }
+    ],
+    "projects": [
+        {
+            "heading": "Drift",
+            "description": "Employee turnover is an issue for many employers. It has a financial impact on the company and often an impact on employee as well. This app aims to help both parties in a pivotal aspect of success, communication.",
+            "technologies": [
+                "Javascript",
+                "jQuery",
+                "HTML",
+                "CSS",
+                "Handlebars",
+                "NodeJS",
+                "Express",
+                "MySql"
+            ],
+            "link": "https://github.com/sldelay/Drift",
+            "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Drift.png"
+        },
+        {
+            "heading": "Travel App",
+            "description": "In this busy business environment, people often have difficulty planning ahead for a vacation. Often they are making a last minute plan for a random city. This app helps them with last minute plans!",
+            "technologies": [
+                "OpenCaage API",
+                "OpenWeatherMap API",
+                "TicketMaster API",
+                "Materialize",
+                "Font Awesome",
+                "Moment JS",
+                "jQuery"
+            ],
+            "link": "https://whoerman.github.io/Travel-App/",
+            "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Travel%20App.png"
+        },
+        {
+            "heading": "Updated Portfolio",
+            "description": "An updated portfolio displaying programs learned and files created during bootcamp",
+            "technologies": [
+                "JavaScript",
+                "CSS",
+                "HTML"
+            ],
+            "link": "https://taniagm.github.io/Homework7/index.html",
+            "screenshot": "https://raw.githubusercontent.com/TaniaGM/reactportfolio/master/assets/images/app.JPG"
+        },
+        {
+            "heading": "Weather Dashboard",
+            "description": "A weather dashboard that allows travelers to see the weather outlook for multiple cities So that they can plan their trips accordingly The weather dashboard will allow travelers to input and track multiple cities that show present and future weather conditions Their searches will be saved in the search history where They can click on past searches to get present and future weather conditions",
+            "technologies": [
+                "OpenWeather API",
+                "CSS",
+                "JavaScript",
+                "jQuery",
+                "HTML"
+            ],
+            "link": "https://taniagm.github.io/weather-dashboard/",
+            "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Weather%20Dashboard.png"
+        }
+    ],
+    "skills": [
+        {
+            "value": "jQuery",
+            "count": 25
+        },
+        {
+            "value": "MongoDB",
+            "count": 18
+        },
+        {
+            "value": "JavaScript",
+            "count": 27
+        },
+        {
+            "value": "React",
+            "count": 30
+        },
+        {
+            "value": "Nodejs",
+            "count": 23
+        },
+        {
+            "value": "Express.js",
+            "count": 25
+        },
+        {
+            "value": "HTML5",
+            "count": 38
+        },
+        {
+            "value": "CSS3",
+            "count": 25
+        },
+        {
+            "value": "Express-Handlebar",
+            "count": 22
+        },
+        {
+            "value": "MySQL",
+            "count": 21
+        },
+        {
+            "value": "Git",
+            "count": 30
+        },
+        {
+            "value": "GitHub",
+            "count": 25
+        },
+        {
+            "value": "Heroku",
+            "count": 25
+        }
+    ]
+}

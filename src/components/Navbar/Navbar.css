@@ -1,0 +1,14 @@
+.top-navbar{
+    background: #2C3E50;
+}
+
+a.navbar-link {
+    font-size: 20px;
+    margin-left: 25px;
+    color: white;
+}
+
+a.navbar-link:hover{
+    text-decoration: none;
+    color: #18BC9C;
+}

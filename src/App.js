@@ -1,29 +1,32 @@
-import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import Home from "./pages/Home";
-import Detail from "./pages/Detail";
-import NoMatch from "./pages/NoMatch";
-import Nav from "./components/Nav";
-import { StoreProvider } from "./utils/GlobalState";
-import FavoritesList from "./pages/FavoritesList";
+import React, { Component } from 'react';
+import { Grid, Col, Row } from 'react-bootstrap';
+import './App.css';
+import JumbotronContainer from './components/Jumbotron';
+import NavbarContainer from './components/Navbar';
+import SkillsTagCloudContainer from "./components/SkillsTagCloud";
+import ProjectContainer from './components/Projects';
+import ResumeDetails from './Resume.json';
+import AboutContainer from './components/About';
+import Footer from "./components/Footer";
 
-function App() {
-  return (
-    <Router>
+class App extends Component {
+  render() {
+    return (
       <div>
-        <StoreProvider>
-          <Nav />
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/home" component={Home} />
-            <Route exact path="/favorites" component={FavoritesList} />
-            <Route exact path="/posts/:id" component={Detail} />
-            <Route component={NoMatch} />
-          </Switch>
-        </StoreProvider>
+        <NavbarContainer />
+        <JumbotronContainer personalInfo={ResumeDetails.personalInfo} />
+        <Grid>
+          <Row className="about-row">
+            <AboutContainer personalInfo={ResumeDetails.personalInfo} />
+          </Row>
+          <Row className="project-row">
+            <ProjectContainer projects={ResumeDetails.projects} />
+          </Row>
+        </Grid>
+        <Footer />
       </div>
-    </Router>
-  );
+    );
+  }
 }
 
 export default App;
