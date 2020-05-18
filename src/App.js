@@ -3,7 +3,6 @@ import { Grid, Col, Row } from 'react-bootstrap';
 import './App.css';
 import JumbotronContainer from './components/Jumbotron';
 import NavbarContainer from './components/Navbar';
-import SkillsTagCloudContainer from "./components/SkillsTagCloud";
 import ProjectContainer from './components/Projects';
 import ResumeDetails from './Resume.json';
 import AboutContainer from './components/About';
