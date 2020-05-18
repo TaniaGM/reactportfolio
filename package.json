@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://github.com/TaniaGM/reactportfolio",
+  "homepage": "https://taniagm.github.io/reactportfolio/",
   "devDependencies": {
     "gh-pages": "^2.2.0"
   },
