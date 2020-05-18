@@ -26,20 +26,9 @@ class AboutContainer extends Component {
 
                             <div className="col-lg-8">
                                 <ul>
-                                    <li className="about-self">Office Administrator</li>
-                                    <li className="about-self">High motivated </li>
-                                    <li className="about-self">Collaborative Developer</li>
-                                    <li className="about-self" id="hobbies">Hobbies
-                                        <span>
-                                            <i className="fa fa-code fa-2x" aria-hidden="true"></i>
-                                        </span>
-                                        <span>
-                                            <i className="fa fa-music fa-2x" aria-hidden="true"></i>
-                                        </span>
-                                        <span>
-                                            <i className="fa fa-camera fa-2x" aria-hidden="true"></i>
-                                        </span>
-                                    </li>
+                                    <li className="about-self">My name is Tania. I am a junior developer in training at the University of New Hampshire Coding Bootcamp. Prior to learning coding, I had a fulfilling career in the non-profit sector, with a focus on Indigenous health.</li>
+                                    <li className="about-self">When I am not coding or sleeping and dreaming of coding, I spend my time planning our next vacation, spending time with my husband, family and two cats.</li>
+                                    <li className="about-self">I look forward to pursuing the challenges presented in web development. Ideally, after finding a career, I look forward to working with Indigenous communities in developing their on-line footprint that allows them to communicate seamlessly with their members.</li>
                                 </ul>
                             </div>
                         </div>

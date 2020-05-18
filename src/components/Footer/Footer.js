@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <div className="footer">
-                Developed using React <span role="img" aria-label="heart">❤️</span>
+                Developed using React
             </div>
 
         )
