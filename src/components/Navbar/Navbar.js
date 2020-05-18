@@ -12,7 +12,7 @@ class NavbarContainer extends Component {
                 </Navbar.Header>
                 <Navbar.Text pullRight>
                     <Navbar.Link href="#profile-link">Profile</Navbar.Link>
-                    <Navbar.Link href="#skills-link">Skills</Navbar.Link>
+                    <Navbar.Link href="#contact-link">Contact</Navbar.Link>
                     <Navbar.Link href="#projects-link">Projects</Navbar.Link>
                 </Navbar.Text>
             </Navbar>
