@@ -13,8 +13,8 @@ class JumbotronContainer extends Component {
                 <p className="text-center" id="location">{this.props.personalInfo.location}</p>
                 <p className="text-center">
                     {/*Place this tag where you want the button to render.*/}
-                    <a href={this.props.personalInfo.github} target="_blank"><i className="fa fa-github fa-3x"></i></a>
-                    <a href={this.props.personalInfo.linkedIn} target="_blank">
+                    <a href={this.props.personalInfo.github} target="_blank" rel="noopener noreferrer"><i className="fa fa-github fa-3x"></i></a>
+                    <a href={this.props.personalInfo.linkedIn} target="_blank" rel="noopener noreferrer">
                         <i className="fa fa-linkedin fa-3x"></i>
                     </a>
                 </p>

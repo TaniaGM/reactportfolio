@@ -49,10 +49,10 @@ class Card extends Component {
                             .reduce((prev, curr) => [prev, ', ', curr])}
                     </div>
                     <div className="card-footer project-card-footer text-center">
-                        <a href={projectLine.link} className="btn btn-outline-success" target="_blank">Link to Webpage</a>
+                        <a href={projectLine.link} className="btn btn-outline-success" target="_blank" rel="noopener noreferrer">Link to Webpage</a>
                     </div>
                     <div className="card-footer project-card-footer text-center">
-                        <a href={projectLine.link} className="btn btn-outline-success" target="_blank">Github respository</a>
+                        <a href={projectLine.link} className="btn btn-outline-success" target="_blank" rel="noopener noreferrer">Github respository</a>
                     </div>
                 </div>
             </div>
