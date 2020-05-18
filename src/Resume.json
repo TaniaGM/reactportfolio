@@ -7,7 +7,7 @@
     "personalInfo": {
         "about": "",
         "name": "Tania Moore",
-        "location": "Oakland, Illinois",
+        "location": "",
         "github": "https://github.com/TaniaGM",
         "linkedIn": "https://www.linkedin.com/in/tania-moore/"
     },
@@ -38,7 +38,6 @@
                 "MySql"
             ],
             "link": "https://desolate-tor-70808.herokuapp.com/",
-            "link": "https://github.com/sldelay/Drift",
             "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Drift.png"
         },
         {
@@ -54,7 +53,6 @@
                 "jQuery"
             ],
             "link": "https://whoerman.github.io/Travel-App/",
-            "link": "https://github.com/whoerman/Travel-App",
             "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Travel%20App.png"
         },
         {
@@ -66,7 +64,6 @@
                 "HTML"
             ],
             "link": "https://taniagm.github.io/Homework7/index.html",
-            "link": "https://github.com/TaniaGM/Homework7",
             "screenshot": "https://user-images.githubusercontent.com/56511238/82134805-62c85580-97c1-11ea-9160-7aa6d9c9d60a.png"
         },
         {
@@ -80,7 +77,6 @@
                 "HTML"
             ],
             "link": "https://taniagm.github.io/weather-dashboard/",
-            "link": "https://github.com/TaniaGM/weather-dashboard",
             "screenshot": "https://raw.githubusercontent.com/TaniaGM/Homework7/master/assets/images/Weather%20Dashboard.png"
         },
         {
@@ -106,7 +102,6 @@
                 "Lighthouse"
             ],
             "link": "https://radiant-shore-27207.herokuapp.com/",
-            "link": "https://github.com/TaniaGM/ProgressiveBudget",
             "screenshot": "https://user-images.githubusercontent.com/56511238/82135072-29451980-97c4-11ea-922b-34c50149120c.png"
         }
     ]

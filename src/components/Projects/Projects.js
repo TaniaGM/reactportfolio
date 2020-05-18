@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import { Grid, Row, Col } from 'react-bootstrap';
 import Card from "../Cards";
 import "./Projects.css";
+
 class ProjectContainer extends Component {
     state = {
         projects: this.props.projects || []

@@ -17,10 +17,11 @@ class AboutContainer extends Component {
                     <div className="card-block">
                         <div className="row">
                             <div className="col-lg-4">
+                                
                                 <img
-                                    className="img-responsive img-circle"
-                                    src=""
-                                    alt="Tania Moore" />
+                                    className="img-50%"
+                                    src="https://user-images.githubusercontent.com/56511238/82262813-3890a800-9927-11ea-8b84-ddf55e92d101.png"
+                                    alt="Tania Moore"/>
                                 <p className="card-text">{this.props.personalInfo.about}</p>
                             </div>
 

@@ -21,6 +21,7 @@ class App extends Component {
           <Row className="project-row">
             <ProjectContainer projects={ResumeDetails.projects} />
           </Row>
+    
         </Grid>
         <Footer />
       </div>

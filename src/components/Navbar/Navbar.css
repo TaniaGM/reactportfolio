@@ -1,5 +1,6 @@
 .top-navbar{
     background: rgb(15, 40, 65);
+    position: -webkit-sticky;
 }
 
 a.navbar-link {
